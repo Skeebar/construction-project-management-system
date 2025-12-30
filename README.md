@@ -16,112 +16,77 @@ Key performance indicators (KPIs)
 # 🏗️ Projects Management
 
 Create and manage construction projects
-
 Assign clients and employees to projects
-
 Track project timelines and status
-
 Monitor project budgets and costs
-
 View detailed project reports
 
-💰 Project Profitability
+# 💰 Project Profitability
 
 Automatic profit & loss calculation per project
-
 Track project income vs expenses
-
 Identify profitable and loss-making projects
-
 Financial performance analysis
 
-👥 Clients Management
+# 👥 Clients Management
 
 Add and manage client profiles
-
 Link clients to multiple projects
-
 View client transaction history
-
 Track outstanding balances
 
-🧾 Invoices
-
+# 🧾 Invoices
 Create and manage invoices
-
 Auto-generate invoices from projects
-
 Track invoice status (Paid, Unpaid, Overdue)
-
 Export or print invoices
-
 Client invoice history
 
-🛒 Purchase Orders
+# 🛒 Purchase Orders
 
 Create purchase orders for materials and services
-
 Link purchase orders to projects
-
 Track order status and costs
-
 Supplier management support
 
-💳 Transactions
+# 💳 Transactions
 
 Record all financial transactions
-
 Categorize income and expenses
-
 Track payment methods
-
 View transaction history and summaries
 
-📉 Expenses
+# 📉 Expenses
 
 Record operational and project-related expenses
-
 Assign expenses to specific projects
-
 Expense categorization
-
 Monthly and project-based expense tracking
 
-📈 Income
+# 📈 Income
 
 Record all income sources
-
 Link income to invoices and projects
-
 Monitor revenue trends
-
 Financial reporting support
 
-👷 Employees Management
+# 👷 Employees Management
 
 Add and manage employees
-
 Assign employees to projects
-
 Track employee roles and responsibilities
-
 Payroll-ready data structure (optional)
 
-🛠️ Technology Stack (Example)
+# 🛠️ Technology Stack (Example)
 
 Update this section based on your actual implementation.
-
 Backend: PHP / Laravel / Node.js
-
 Frontend: HTML, CSS, JavaScript, Bootstrap / Tailwind
-
 Database: MySQL / PostgreSQL
-
 Authentication: Session-based / JWT
-
 Server: Apache / Nginx
 
-📂 System Modules
+# 📂 System Modules
 /dashboard
 /projects
 /clients
@@ -133,63 +98,48 @@ Server: Apache / Nginx
 /employees
 /reports
 
-🔐 Security Features
+#🔐 Security Features
 
 User authentication and authorization
-
 Role-based access control
-
 Secure financial data handling
-
 Input validation and error handling
 
-📈 Reports & Analytics
+# 📈 Reports & Analytics
 
 Project profitability reports
-
 Income vs expense reports
-
 Client billing summaries
-
 Transaction and financial statements
 
-🚀 Installation (Basic Example)
+# 🚀 Installation (Basic Example)
 
 Clone the repository
-
-git clone https://github.com/yourusername/construction-management-system.git
+git clone https://github.com/Skeebar/construction-project-management-system.git
 
 
 Import the database
-
 import database.sql
 
 
-Configure database connection
+# Configure database connection
 
 config/database.php
-
 
 Run the application on a local or live server
 
 🎯 Use Cases
 
 Construction companies
-
 Contractors and subcontractors
-
 Project managers
-
 Small to medium construction firms
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Payroll management
-
 Inventory management
-
 Multi-company support
-
 Mobile-friendly dashboard
 
 Advanced analytics & forecasting
