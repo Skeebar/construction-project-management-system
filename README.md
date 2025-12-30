@@ -1,5 +1,15 @@
 # construction-project-management-system
 
+
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/4339103f-4b1c-4f91-a2d0-f1d89b852585" />
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/72c24aac-1031-467d-8606-1af5753f7499" />
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/7dc94030-9f87-44cb-a491-1654d7d569ec" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/71d428cd-8744-4880-99e5-5a2a4809e787" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/4a849d10-00e5-4877-9f96-4225d4360eb0" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2b536e63-6818-47c3-83e0-711dc760fabc" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/f63d7e48-409f-406f-82fd-0bfc2b11f6b9" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/a071ed3c-801d-47d8-bc62-31d2f10b412b" />
+
 A comprehensive Construction Project Management System designed to help construction companies manage projects, finances, clients, and employees efficiently from a centralized dashboard.
 
 This system streamlines daily operations by tracking projects, invoices, profitability, expenses, income, transactions, and purchase orders, ensuring better financial control and project visibility.
